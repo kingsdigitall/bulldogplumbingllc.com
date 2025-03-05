@@ -26,7 +26,7 @@ const Service = ({ value = "" }: any) => {
     ? abbrevation
       ? `${contentData.name}, ${abbrevation}`
       : contentData.name
-    : "Mercer, PA";
+    : "Volant, PA";
   return (
     <div className=" px-4  md:px-10">
       <h2 className="text-first text-center text-3xl font-bold text-main">
@@ -59,7 +59,7 @@ const Service = ({ value = "" }: any) => {
             >
               <MdDoubleArrow className="text-bold text-3xl " />
               <Link href={`/services/${items.slug}`}>
-                {items.title.split("[location]").join(StateName)}
+                {items.title.split("in [location]").join("")}
               </Link>
             </h3>
             <div
@@ -71,7 +71,7 @@ const Service = ({ value = "" }: any) => {
           </div>
         ))}
       </div>
-      <div className="block md:hidden pb-10">
+      <div className="block pb-10 md:hidden">
         {data.lists.map((items: ServiceItem) => (
           <div
             className=" rounded-2xl border   p-3 shadow-xl"

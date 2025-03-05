@@ -18,10 +18,10 @@ export function generateMetadata({ params }: { params: { services: string } }) {
   const subdomain = headersList.get("x-subdomain");
   const Data: any = content[subdomain as keyof typeof content];
   return {
-    title: serviceData.title.split("[location]").join(Data?.name || "USA"),
+    title: serviceData.title.split("[location]").join(Data?.name || "Volant, PA"),
     description: serviceData.description
       .split("[location]")
-      .join(Data?.name || "USA"),
+      .join(Data?.name || "Volant, PA"),
     alternates: {
       canonical: `https://${ContactInfo.host}/services/${params.services}`,
     },
@@ -38,7 +38,7 @@ const page = ({ params }: { params: { services: string } }) => {
   return (
     <div className="">
       <Banner
-        h1={serviceData.title.split("[location]").join(Data?.name || "USA")}
+        h1={serviceData.title.split("[location]").join(Data?.name || "Volant, PA")}
         image={"banner.jpg"}
         header=""
         p1={serviceData.description.split("[location]").join(Data?.name)}
@@ -52,7 +52,7 @@ const page = ({ params }: { params: { services: string } }) => {
                 {" "}
                 {serviceData.title
                   .split("[location]")
-                  .join(Data?.name || "Mercer, PA")}
+                  .join(Data?.name || "Volant, PA")}
               </h2>
               <br />
             </div>
@@ -61,7 +61,7 @@ const page = ({ params }: { params: { services: string } }) => {
               dangerouslySetInnerHTML={{
                 __html: serviceData.para1
                   .split("[location]")
-                  .join(Data?.name || "Mercer, PA"),
+                  .join(Data?.name || "Volant, PA"),
               }}
             ></div>
           </div>

@@ -31,7 +31,7 @@ const ReviewWidget: React.FC<ReviewWidgetProps> = ({ value = "" }) => {
     ? abbrevation
       ? `${contentData.name}, ${abbrevation}`
       : contentData.name
-    : "Mercer, PA";
+    : " Volant, PA";
 
   const settings = {
     dots: true,

@@ -428,7 +428,7 @@ export default function SubdomainPage({ params }: SubdomainPageProps) {
       ) : null} */}
       {/* Zip */}
       {/* FAQ */}
-      {ContentData?.faq ? <Faq /> : null}
+      {ContentData?.faq ? <Faq value={State} /> : null}
       {/* FAQ */}
       {/* CounterCta */}
       {/* CounterCta */}

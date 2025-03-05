@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   },
   description: contentData.metaDescription,
   alternates: {
-    canonical: `${ContactInfo.baseUrl}locations`,
+    canonical: `${ContactInfo.baseUrl}areas-we-serve`,
   },
 };
 
@@ -22,7 +22,7 @@ const page = () => {
         h1={contentData.h1Banner}
         image={contentData.bannerImage}
         header={contentData.bannerQuote}
-        p1={contentData.p1Banner}
+        p1={contentData.metaDescription}
       />
       <div className="py-10">
         <h2 className="text-center text-3xl text-main">

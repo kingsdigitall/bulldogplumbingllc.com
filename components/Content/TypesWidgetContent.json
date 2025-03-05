@@ -1,0 +1,36 @@
+{
+      "title": "Not Sure What Size You Need? Explore Our Dumpster Options",
+      "p": "",
+      "lists": [
+            {
+                  "title": "10 Yard Dumpster",
+                  "imageUrl": "10-Yard-Roll-Off-Dumpster.png",
+                  "description": "<ul class='list-disc pl-4'>     <li>         <p>Perfect for small cleanout projects like attics, closets, and garages.</p>     </li>     <li>         <p>Ideal for light debris disposal, including household junk and minor renovation waste.</p>     </li>     <li>         <p>A great choice for seasonal yard work, handling branches, leaves, and small landscaping debris.</p>     </li>     <li>         <p>Compact and space-saving, making it easy to place in tight residential areas.</p>     </li> </ul>"
+            },
+            {
+                  "title": "12 Yard Dumpster",
+                  "imageUrl": "12-Yard-Roll-Off-Dumpster-copy.png",
+                  "description": "<ul class='list-disc pl-4'>     <li>         <p>Suited for moderate home cleanouts, including furniture, clothing, and household items.</p>     </li>     <li>         <p>Works well for yard maintenance projects, such as trimming trees and clearing out overgrown areas.</p>     </li>     <li>         <p>A great option for small renovation jobs, like updating a bathroom or replacing flooring.</p>     </li>     <li>         <p>Designed to fit driveways and restricted spaces without causing disruptions.</p>     </li> </ul>"
+            },
+            {
+                  "title": "15 Yard Dumpster",
+                  "imageUrl": "15-Yard-Roll-Off-Dumpster.png",
+                  "description": "<ul class='list-disc pl-4'>     <li>         <p>Ideal for larger home decluttering projects, including furniture, appliances, and electronics.</p>     </li>     <li>         <p>A great choice for storm cleanup and landscaping waste, such as tree branches and dirt removal.</p>     </li>     <li>         <p>Suitable for small-scale construction projects, including drywall, wood, and light demolition materials.</p>     </li>     <li>         <p>Provides ample space for medium-sized renovation debris without taking up too much room.</p>     </li> </ul>"
+            },
+            {
+                  "title": "20 Yard Dumpster",
+                  "imageUrl": "20-Yard-Roll-Off-Dumpster.png",
+                  "description": "<ul class='list-disc pl-4'>     <li>         <p>A top choice for home remodeling projects, handling cabinets, flooring, and drywall removal.</p>     </li>     <li>         <p>Excellent for roofing jobs, accommodating large amounts of shingles and underlayment.</p>     </li>     <li>         <p>Great for outdoor renovations, including deck removals, fencing replacements, and siding updates.</p>     </li>     <li>         <p>Commonly used by contractors for mid-sized construction and renovation projects.</p>     </li> </ul>"
+            },
+            {
+                  "title": "30 Yard Dumpster",
+                  "imageUrl": "30-Yard-Roll-Off-Dumpster.png",
+                  "description": "<ul class='list-disc pl-4'>     <li>         <p>Best for major home renovations, including multi-room remodels and complete home overhauls.</p>     </li>     <li>         <p>Designed to handle large amounts of construction debris, such as wood, metal, and drywall.</p>     </li>     <li>         <p>Works well for business cleanouts and estate clearances, making it a versatile choice for commercial use.</p>     </li>     <li>         <p>Frequently used for large-scale contractor jobs, demolition projects, and property management waste.</p>     </li> </ul>"
+            },
+            {
+                  "title": "40 Yard Dumpster",
+                  "imageUrl": "40-Yard-Roll-Off-Dumpster.png",
+                  "description": "<ul class='list-disc pl-4'>     <li>         <p>The largest option for extensive demolition and construction projects.</p>     </li>     <li>         <p>Ideal for industrial waste disposal, including heavy materials like metal, concrete, and bricks.</p>     </li>     <li>         <p>Commonly used for warehouse cleanouts, commercial site clearances, and large-scale renovations.</p>     </li>     <li>         <p>The go-to choice for contractors handling high-volume waste from major developments.</p>     </li> </ul>"
+            }
+      ]
+}

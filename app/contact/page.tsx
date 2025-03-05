@@ -133,7 +133,7 @@ const page = () => {
         {/* Map */}
         <div className="mt-10 w-full">
           <iframe
-            src="https://maps.google.com/maps?q=Mercer+Pennsylvania&t=&z=13&ie=UTF8&iwloc=&output=embed"
+            src="https://maps.google.com/maps?q=Volant+Pennsylvania&t=&z=13&ie=UTF8&iwloc=&output=embed"
             height="350"
             className="mt-10 w-full rounded-lg border"
             loading="lazy"

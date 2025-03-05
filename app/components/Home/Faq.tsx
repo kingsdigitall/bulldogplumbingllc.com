@@ -25,12 +25,12 @@ const Faq = ({ value = "" }) => {
     ? abbrevation
       ? `${contentData.name}`
       : contentData.name
-    : " Volant, 16156";
+    : " Volant";
   return (
     <div className="mt-14 md:mt-20">
       <h2 className=" text-center text-3xl font-bold text-main">
         FAQs about dumpster rental in {StateName},{" "}
-        {contentData?.zipCodes && contentData.zipCodes.split("|")[0]}
+        {contentData?.zipCodes ? contentData.zipCodes.split("|")[0]: "16156"}
       </h2>
       <div className="mt-5 flex flex-col items-center justify-center px-6">
         <Accordion

@@ -1,30 +1,32 @@
 {
-  "metaTitle": "About Volant Dumpster Rental Pros | Trusted Dumpster Rental Services in Volant",
-  "metaDescription": "Learn more about Volant Dumpster Rental Pros, your reliable dumpster rental provider in Volant. Affordable, efficient, and locally owned!",
-  "metaCanonical": "https://allprorolloff.com/about",
+  "metaTitle": "Fencing & Gates – Quality & Durability You Can Trust",
+  "metaDescription": " We are your trusted partner for durable, stylish fencing solutions. We prioritize quality, security, and customer satisfaction. Learn more about us!",
+
   "bannerQuote": "",
   "bannerImage": "banner.jpg",
-  "h1Banner": "About Us: Volant Dumpster Rental Pros Your Reliable Dumpster Rental Partner in Volant",
+  "h1Banner": "Meridian Affordable Fences & Gates Pros Near Me",
   "p1Banner": "",
-  "p2": "we take pride in being a locally owned and operated dumpster rental company, dedicated to serving homeowners, businesses, and contractors throughout Volant, PA. Our team specializes in providing affordable, efficient, and hassle-free waste management solutions, ensuring that every project—big or small—gets the right dumpster size for seamless cleanup. Whether you’re decluttering your home, managing a large-scale construction site, or running a business in need of ongoing waste disposal, we’ve got you covered!",
-  "h2Image": "dumpsters-being-full-with-garbage-in-a-city-dumps.jpg",
-  "missionSection": [
+  "p2":"At Meridian Affordable Fences & Gates Pros, we are committed to providing high-quality, durable, and budget-friendly fencing and gate solutions for homeowners and businesses. With years of experience in the industry, we take pride in our craftsmanship, attention to detail, and customer-first approach. Whether you need a new installation, repair, painting, or weatherproofing, our expert team ensures your fence and gate not only look great but also provide security and longevity.",
+  "h2Image": "whitewashed-bark-of-fruit-trees-growing-in-sunny.jpg",
+  "missionSection":[
     {
       "title": "Our Mission",
-      "description": "Our goal is simple to make dumpster rentals easy, affordable, and stress-free. We believe in transparent pricing, flexible rental terms, and exceptional customer service, so you never have to worry about hidden fees or complicated contracts. With same-day delivery, prompt pickups, and expert assistance, we strive to provide a seamless experience for every customer, no matter the size of the job."
+    "description": "Our mission is to deliver top-quality fencing and gate solutions at affordable prices while maintaining superior customer service. We strive to enhance the security, privacy, and beauty of properties in Meridian through expert craftsmanship and durable materials."
     },
     {
       "title": "Our Vision",
-      "description": "We’re committed to being Volant’s top choice for dumpster rentals by focusing on eco-friendly waste disposal solutions. We aim to reduce landfill waste through sustainable recycling practices and responsible disposal methods, ensuring that your unwanted materials are handled with care. Our vision is to create a cleaner, greener community by making waste management simple, efficient, and environmentally responsible."
+    "description": "We envision becoming the go-to fencing and gate company in Meridian, known for our exceptional quality, affordability, and reliable service. Our goal is to continue innovating and improving our techniques to offer long-lasting, stylish, and low-maintenance fencing solutions for every customer."
     },
     {
-      "title": "Our Expertise",
-      "description": "With years of experience in the waste management industry, we’ve built a reputation for fast, reliable, and professional dumpster rental services. We understand that different projects come with unique challenges, which is why we provide customized solutions for residential, commercial, and construction waste disposal. Our knowledgeable team is always available to help you select the right dumpster size, follow proper disposal guidelines, and manage your waste effectively—so you can focus on what matters most."
+      "title": "Our Values",
+    "description": "We prioritize quality, affordability, and customer satisfaction. With expert craftsmanship, transparent pricing, and durable materials, we ensure long-lasting fencing solutions. Our values include honesty, reliability, innovation, and excellence, delivering secure and stylish fences. Your trust is our priority!"
     }
   ],
-  "areaweserveSection": {
-    "description": "We serve all across the USA",
-    "linkText": "Check our Dumpster service locations here.",
-    "link": "/locations"
+  "areaweserveSection":{
+    "description": "We serve all across the Meridian",
+    "linkText":"Check our Fence service locations here.",
+    "link":"/locations"
   }
+
+  
 }

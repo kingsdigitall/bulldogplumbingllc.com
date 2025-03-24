@@ -1,674 +1,394 @@
 {
-    "northwest-meridian-id": {
-        "slug": "northwest-meridian-id",
-        "name": "Northwest Meridian",
-        "metaTitle": "Fence Company Northwest Meridian, ID | Meridian Affordable Fences & Gates Pros",
-        "metaDescription": "Upgrade your property with Meridian Affordable Fences & Gates Pros! Premium fencing company in Northwest Meridian—Durable, Stylish & Customized Fencing Solutions For You! (303) 551-9552",
-        "metaCanonical": "",
-        "bannerImage": "banner.jpg",
-        "h1Banner": "Premier Fence Contractor in Northwest Meridian, ID",
-        "p1Banner": "#1 Choice for Reliable & Affordable Fencing Services. Transform Your Property with Meridian Affordable Fences & Gates Pros in Northwest Meridian!",
-        "h2": "Your Trusted Local Fencing Company in Northwest Meridian, ID",
-        "p2": "Meridian Affordable Fences & Gates Pros has been serving the Northwest Meridian community for over 20 years. We specialize in custom fencing solutions for homes and businesses.<br/><br/>As a locally owned and operated business, we emphasize exceptional craftsmanship and use only high-quality materials to meet local needs. Whether it’s a repair, a new installation, or a custom design, our team is here to help.<br/><br/>We take pride in tailoring each project to fit your property’s style and budget. Our commitment to top-tier materials and expert techniques ensures fences that stand strong against the test of time. Let us enhance your property’s security and aesthetic appeal. Trust Meridian Affordable Fences & Gates Pros to deliver a fence you’ll be proud of.",
-        "h2Image": "metal-panels-fence-building.jpg",
-        "serviceTtile": "",
-        "needsSection": {
-            "title": "Why Meridian Affordable Fences & Gates Pros is the Best Choice in Northwest Meridian",
-            "description": "",
-            "needslist": [
-                {
-                    "title": "Local Expertise",
-                    "description": "We understand Northwest Meridian’s unique climate and the demands it places on fences. This knowledge helps us recommend materials and designs that last for years while maintaining their functionality and appearance."
-                },
-                {
-                    "title": "Premium Materials",
-                    "description": "We use high-quality materials that are carefully selected to withstand harsh weather conditions. Every fence we build is crafted to stay durable and look great over time."
-                },
-                {
-                    "title": "Fair Pricing",
-                    "description": "Our pricing reflects the quality of our work without stretching your budget. We focus on delivering exceptional fences at a cost that makes sense for every homeowner and business."
-                },
-                {
-                    "title": "Wide Range of Fencing Solutions",
-                    "description": "From traditional wooden fences to sleek modern options like vinyl and aluminum, we offer a variety of styles to match your property’s needs and aesthetics."
-                },
-                {
-                    "title": "Fully Licensed and Insured",
-                    "description": "We have been in the market since 1992, fully licensed and insured to handle your fencing needs. Every project is completed with professional and top-tier safety standards, which gives you peace of mind from start to finish."
-                },
-                {
-                    "title": "Always Here for You",
-                    "description": "We prioritize our clients by staying available 24/7. Whether you need a quick consultation or after-installation support, our team is ready to help any time you call."
-                }
-            ]
+ "stoneridge-ca": {
+    "slug": "stoneridge-ca",
+    "name": "Stoneridge",
+    "metaTitle": "Water Heater Repair Stoneridge, CA | Roseville Water Heater Repair Pros",
+    "metaDescription": "Get expert water heater repair with Roseville Water Heater Repair Pros! Reliable, fast, and affordable services in Stoneridge. Call us today!",
+    "metaCanonical": "",
+    "bannerImage": "banner.jpg",
+    "h1Banner": "Top Water Heater Repair Service in Stoneridge, CA",
+    "p1Banner": "Your Trusted Choice for Reliable & Affordable Water Heater Repairs. Experience the Best with Roseville Water Heater Repair Pros!",
+    "h2": "Expert Water Heater Repair in Stoneridge, CA",
+    "p2": "Roseville Water Heater Repair Pros has been serving the Stoneridge community for over 20 years. We specialize in water heater repairs, maintenance, and installations for residential and commercial properties.<br/><br/>As a locally owned and operated business, we pride ourselves on delivering exceptional service with high-quality materials and expert workmanship. Whether you need a quick repair or a full system replacement, our team is ready to help.<br/><br/>We customize each service to fit your needs and budget, ensuring long-lasting solutions. Trust Roseville Water Heater Repair Pros for all your water heater needs!",
+    "h2Image": "young-master-of-household-maintenance-service-cons.jpg",
+    "serviceTtile": "",
+    "needsSection": {
+      "title": "Why Choose Roseville Water Heater Repair Pros?",
+      "description": "",
+      "needslist": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Stoneridge’s unique water conditions and provide the best solutions for long-lasting water heater performance."
         },
-        "h5": "",
-        "p5": "",
-        "h5Image": "",
-        "faq": [
-            {
-                "ques": "How long does it take to install a fence?",
-                "ans": "Installation timelines vary depending on the size and complexity of the project, but most fences can be completed within a few days. With our expertise and commitment to excellence, Meridian Affordable Fences & Gates Pros ensures your project is completed on time, tailored to its specific requirements."
-            },
-            {
-                "ques": "What’s the best type of fence for privacy?",
-                "ans": "We recommend wood or vinyl fences with no gaps between panels for maximum privacy. Our team can help you choose the best design to suit your needs."
-            },
-            {
-                "ques": "Do you provide free estimates?",
-                "ans": "Yes, we offer free consultations and estimates to help you plan your fencing project with confidence."
-            },
-            {
-                "ques": "Are your fences weather-resistant?",
-                "ans": "Absolutely! We use materials that are designed to withstand Northwest Meridian’s changing weather conditions."
-            },
-            {
-                "ques": "Can I customize my fence design?",
-                "ans": "Of course! We specialize in creating custom fences that suit your style and functional needs."
-            },
-            {
-                "ques": "Do you handle fence repairs?",
-                "ans": "Yes, we provide expert repair services for all types of fences, whether it’s fixing storm damage, replacing broken panels, or restoring worn-out sections."
-            },
-            {
-                "ques": "What if my fence gets damaged after installation?",
-                "ans": "We offer repair and maintenance services to address any issues post-installation and ensure your fence remains in top condition."
-            },
-            {
-                "ques": "Do you offer eco-friendly fencing options?",
-                "ans": "Yes, we provide sustainable fencing options that are both environmentally friendly and durable."
-            }
-        ],
-        "reviews": [],
-        "neighbourhoods": "",
-        "zipCodes": "83646"
+        {
+          "title": "Quality Repairs",
+          "description": "Our skilled technicians use high-quality parts to ensure your water heater functions efficiently and safely."
+        },
+        {
+          "title": "Affordable Pricing",
+          "description": "We offer competitive pricing for top-tier services, ensuring you get the best value for your money."
+        },
+        {
+          "title": "All Types of Water Heaters",
+          "description": "We service and install all types of water heaters, including tankless, gas, and electric models."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "We are a fully licensed and insured company, ensuring peace of mind with every service."
+        },
+        {
+          "title": "24/7 Emergency Services",
+          "description": "We’re available around the clock for urgent repairs, so you never have to go without hot water."
+        }
+      ]
     },
-    "kuna-id": {
-        "slug": "kuna-id",
-        "name": "Kuna",
-        "metaTitle": "Fence Company Kuna, ID | Meridian Affordable Fences & Gates Pros",
-        "metaDescription": "Upgrade your property with Meridian Affordable Fences & Gates Pros! Premium fencing company in Kuna—Durable, Stylish & Customized Fencing Solutions For You! (303) 551-9552",
-        "metaCanonical": "",
-        "bannerImage": "banner.jpg",
-        "h1Banner": "Premier Fence Contractor in Kuna, ID",
-        "p1Banner": "#1 Choice for Reliable & Affordable Fencing Services. Transform Your Property with Meridian Affordable Fences & Gates Pros in Kuna!",
-        "h2": "Your Trusted Local Fencing Company in Kuna, ID",
-        "p2": "Meridian Affordable Fences & Gates Pros has been serving the Kuna community for over 20 years. We specialize in custom fencing solutions for homes and businesses.<br/><br/>As a locally owned and operated business, we emphasize exceptional craftsmanship and use only high-quality materials to meet local needs. Whether it’s a repair, a new installation, or a custom design, our team is here to help.<br/><br/>We take pride in tailoring each project to fit your property’s style and budget. Our commitment to top-tier materials and expert techniques ensures fences that stand strong against the test of time. Let us enhance your property’s security and aesthetic appeal. Trust Meridian Affordable Fences & Gates Pros to deliver a fence you’ll be proud of.",
-        "h2Image": "metal-panels-fence-building.jpg",
-        "serviceTtile": "",
-        "needsSection": {
-            "title": "Why Meridian Affordable Fences & Gates Pros is the Best Choice in Kuna",
-            "description": "",
-            "needslist": [
-                {
-                    "title": "Local Expertise",
-                    "description": "We understand Kuna’s unique climate and the demands it places on fences. This knowledge helps us recommend materials and designs that last for years while maintaining their functionality and appearance."
-                },
-                {
-                    "title": "Premium Materials",
-                    "description": "We use high-quality materials that are carefully selected to withstand harsh weather conditions. Every fence we build is crafted to stay durable and look great over time."
-                },
-                {
-                    "title": "Fair Pricing",
-                    "description": "Our pricing reflects the quality of our work without stretching your budget. We focus on delivering exceptional fences at a cost that makes sense for every homeowner and business."
-                },
-                {
-                    "title": "Wide Range of Fencing Solutions",
-                    "description": "From traditional wooden fences to sleek modern options like vinyl and aluminum, we offer a variety of styles to match your property’s needs and aesthetics."
-                },
-                {
-                    "title": "Fully Licensed and Insured",
-                    "description": "We have been in the market since 1992, fully licensed and insured to handle your fencing needs. Every project is completed with professional and top-tier safety standards, which gives you peace of mind from start to finish."
-                },
-                {
-                    "title": "Always Here for You",
-                    "description": "We prioritize our clients by staying available 24/7. Whether you need a quick consultation or after-installation support, our team is ready to help any time you call."
-                }
-            ]
+    "h5": "",
+    "p5": "",
+    "h5Image": "",
+    "faq": [
+      {
+        "ques": "How quickly can you repair my water heater?",
+        "ans": "Most repairs are completed the same day. Our team works efficiently to restore your hot water as quickly as possible."
+      }
+    ],
+    "reviews": [],
+    "neighbourhoods": "",
+    "zipCodes": "95661"
+  },
+  "johnson-ranch-ca": {
+    "slug": "johnson-ranch-ca",
+    "name": "Johnson Ranch",
+    "metaTitle": "Water Heater Repair Johnson Ranch, CA | Roseville Water Heater Repair Pros",
+    "metaDescription": "Get expert water heater repair with Roseville Water Heater Repair Pros! Reliable, fast, and affordable services in Johnson Ranch. Call us today!",
+    "metaCanonical": "",
+    "bannerImage": "banner.jpg",
+    "h1Banner": "Top Water Heater Repair Service in Johnson Ranch, CA",
+    "p1Banner": "Your Trusted Choice for Reliable & Affordable Water Heater Repairs. Experience the Best with Roseville Water Heater Repair Pros!",
+    "h2": "Expert Water Heater Repair in Johnson Ranch, CA",
+    "p2": "Roseville Water Heater Repair Pros has been serving the Johnson Ranch community for over 20 years. We specialize in water heater repairs, maintenance, and installations for residential and commercial properties.<br/><br/>As a locally owned and operated business, we pride ourselves on delivering exceptional service with high-quality materials and expert workmanship. Whether you need a quick repair or a full system replacement, our team is ready to help.<br/><br/>We customize each service to fit your needs and budget, ensuring long-lasting solutions. Trust Roseville Water Heater Repair Pros for all your water heater needs!",
+    "h2Image": "young-master-of-household-maintenance-service-cons.jpg",
+    "serviceTtile": "",
+    "needsSection": {
+      "title": "Why Choose Roseville Water Heater Repair Pros?",
+      "description": "",
+      "needslist": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Johnson Ranch’s unique water conditions and provide the best solutions for long-lasting water heater performance."
         },
-        "h5": "",
-        "p5": "",
-        "h5Image": "",
-        "faq": [
-            {
-                "ques": "How long does it take to install a fence?",
-                "ans": "Installation timelines vary depending on the size and complexity of the project, but most fences can be completed within a few days. With our expertise and commitment to excellence, Meridian Affordable Fences & Gates Pros ensures your project is completed on time, tailored to its specific requirements."
-            },
-            {
-                "ques": "What’s the best type of fence for privacy?",
-                "ans": "We recommend wood or vinyl fences with no gaps between panels for maximum privacy. Our team can help you choose the best design to suit your needs."
-            },
-            {
-                "ques": "Do you provide free estimates?",
-                "ans": "Yes, we offer free consultations and estimates to help you plan your fencing project with confidence."
-            },
-            {
-                "ques": "Are your fences weather-resistant?",
-                "ans": "Absolutely! We use materials that are designed to withstand Kuna’s changing weather conditions."
-            },
-            {
-                "ques": "Can I customize my fence design?",
-                "ans": "Of course! We specialize in creating custom fences that suit your style and functional needs."
-            },
-            {
-                "ques": "Do you handle fence repairs?",
-                "ans": "Yes, we provide expert repair services for all types of fences, whether it’s fixing storm damage, replacing broken panels, or restoring worn-out sections."
-            },
-            {
-                "ques": "What if my fence gets damaged after installation?",
-                "ans": "We offer repair and maintenance services to address any issues post-installation and ensure your fence remains in top condition."
-            },
-            {
-                "ques": "Do you offer eco-friendly fencing options?",
-                "ans": "Yes, we provide sustainable fencing options that are both environmentally friendly and durable."
-            }
-        ],
-        "reviews": [],
-        "neighbourhoods": "",
-        "zipCodes": "83634"
+        {
+          "title": "Quality Repairs",
+          "description": "Our skilled technicians use high-quality parts to ensure your water heater functions efficiently and safely."
+        },
+        {
+          "title": "Affordable Pricing",
+          "description": "We offer competitive pricing for top-tier services, ensuring you get the best value for your money."
+        },
+        {
+          "title": "All Types of Water Heaters",
+          "description": "We service and install all types of water heaters, including tankless, gas, and electric models."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "We are a fully licensed and insured company, ensuring peace of mind with every service."
+        },
+        {
+          "title": "24/7 Emergency Services",
+          "description": "We’re available around the clock for urgent repairs, so you never have to go without hot water."
+        }
+      ]
     },
-    "downtown-meridian-id": {
-        "slug": "downtown-meridian-id",
-        "name": "Downtown Meridian",
-        "metaTitle": "Fence Company Downtown Meridian, ID | Meridian Affordable Fences & Gates Pros",
-        "metaDescription": "Upgrade your property with Meridian Affordable Fences & Gates Pros! Premium fencing company in Downtown Meridian—Durable, Stylish & Customized Fencing Solutions For You! (303) 551-9552",
-        "metaCanonical": "",
-        "bannerImage": "banner.jpg",
-        "h1Banner": "Premier Fence Contractor in Downtown Meridian, ID",
-        "p1Banner": "#1 Choice for Reliable & Affordable Fencing Services. Transform Your Property with Meridian Affordable Fences & Gates Pros in Downtown Meridian!",
-        "h2": "Your Trusted Local Fencing Company in Downtown Meridian, ID",
-        "p2": "Meridian Affordable Fences & Gates Pros has been serving the Downtown Meridian community for over 20 years. We specialize in custom fencing solutions for homes and businesses.<br/><br/>As a locally owned and operated business, we emphasize exceptional craftsmanship and use only high-quality materials to meet local needs. Whether it’s a repair, a new installation, or a custom design, our team is here to help.<br/><br/>We take pride in tailoring each project to fit your property’s style and budget. Our commitment to top-tier materials and expert techniques ensures fences that stand strong against the test of time. Let us enhance your property’s security and aesthetic appeal. Trust Meridian Affordable Fences & Gates Pros to deliver a fence you’ll be proud of.",
-        "h2Image": "metal-panels-fence-building.jpg",
-        "serviceTtile": "",
-        "needsSection": {
-            "title": "Why Meridian Affordable Fences & Gates Pros is the Best Choice in Downtown Meridian",
-            "description": "",
-            "needslist": [
-                {
-                    "title": "Local Expertise",
-                    "description": "We understand Downtown Meridian’s unique climate and the demands it places on fences. This knowledge helps us recommend materials and designs that last for years while maintaining their functionality and appearance."
-                },
-                {
-                    "title": "Premium Materials",
-                    "description": "We use high-quality materials that are carefully selected to withstand harsh weather conditions. Every fence we build is crafted to stay durable and look great over time."
-                },
-                {
-                    "title": "Fair Pricing",
-                    "description": "Our pricing reflects the quality of our work without stretching your budget. We focus on delivering exceptional fences at a cost that makes sense for every homeowner and business."
-                },
-                {
-                    "title": "Wide Range of Fencing Solutions",
-                    "description": "From traditional wooden fences to sleek modern options like vinyl and aluminum, we offer a variety of styles to match your property’s needs and aesthetics."
-                },
-                {
-                    "title": "Fully Licensed and Insured",
-                    "description": "We have been in the market since 1992, fully licensed and insured to handle your fencing needs. Every project is completed with professional and top-tier safety standards, which gives you peace of mind from start to finish."
-                },
-                {
-                    "title": "Always Here for You",
-                    "description": "We prioritize our clients by staying available 24/7. Whether you need a quick consultation or after-installation support, our team is ready to help any time you call."
-                }
-            ]
+    "h5": "",
+    "p5": "",
+    "h5Image": "",
+    "faq": [
+      {
+        "ques": "How quickly can you repair my water heater?",
+        "ans": "Most repairs are completed the same day. Our team works efficiently to restore your hot water as quickly as possible."
+      }
+    ],
+    "reviews": [],
+    "neighbourhoods": "",
+    "zipCodes": "95661"
+  },
+  "olympus-pointe-ca": {
+    "slug": "olympus-pointe-ca",
+    "name": "Olympus Pointe",
+    "metaTitle": "Water Heater Repair Olympus Pointe, CA | Roseville Water Heater Repair Pros",
+    "metaDescription": "Get expert water heater repair with Roseville Water Heater Repair Pros! Reliable, fast, and affordable services in Olympus Pointe. Call us today!",
+    "metaCanonical": "",
+    "bannerImage": "banner.jpg",
+    "h1Banner": "Top Water Heater Repair Service in Olympus Pointe, CA",
+    "p1Banner": "Your Trusted Choice for Reliable & Affordable Water Heater Repairs. Experience the Best with Roseville Water Heater Repair Pros!",
+    "h2": "Expert Water Heater Repair in Olympus Pointe, CA",
+    "p2": "Roseville Water Heater Repair Pros has been serving the Olympus Pointe community for over 20 years. We specialize in water heater repairs, maintenance, and installations for residential and commercial properties.<br/><br/>As a locally owned and operated business, we pride ourselves on delivering exceptional service with high-quality materials and expert workmanship. Whether you need a quick repair or a full system replacement, our team is ready to help.<br/><br/>We customize each service to fit your needs and budget, ensuring long-lasting solutions. Trust Roseville Water Heater Repair Pros for all your water heater needs!",
+    "h2Image": "young-master-of-household-maintenance-service-cons.jpg",
+    "serviceTtile": "",
+    "needsSection": {
+      "title": "Why Choose Roseville Water Heater Repair Pros?",
+      "description": "",
+      "needslist": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Olympus Pointe’s unique water conditions and provide the best solutions for long-lasting water heater performance."
         },
-        "h5": "",
-        "p5": "",
-        "h5Image": "",
-        "faq": [
-            {
-                "ques": "How long does it take to install a fence?",
-                "ans": "Installation timelines vary depending on the size and complexity of the project, but most fences can be completed within a few days. With our expertise and commitment to excellence, Meridian Affordable Fences & Gates Pros ensures your project is completed on time, tailored to its specific requirements."
-            },
-            {
-                "ques": "What’s the best type of fence for privacy?",
-                "ans": "We recommend wood or vinyl fences with no gaps between panels for maximum privacy. Our team can help you choose the best design to suit your needs."
-            },
-            {
-                "ques": "Do you provide free estimates?",
-                "ans": "Yes, we offer free consultations and estimates to help you plan your fencing project with confidence."
-            },
-            {
-                "ques": "Are your fences weather-resistant?",
-                "ans": "Absolutely! We use materials that are designed to withstand Downtown Meridian’s changing weather conditions."
-            },
-            {
-                "ques": "Can I customize my fence design?",
-                "ans": "Of course! We specialize in creating custom fences that suit your style and functional needs."
-            },
-            {
-                "ques": "Do you handle fence repairs?",
-                "ans": "Yes, we provide expert repair services for all types of fences, whether it’s fixing storm damage, replacing broken panels, or restoring worn-out sections."
-            },
-            {
-                "ques": "What if my fence gets damaged after installation?",
-                "ans": "We offer repair and maintenance services to address any issues post-installation and ensure your fence remains in top condition."
-            },
-            {
-                "ques": "Do you offer eco-friendly fencing options?",
-                "ans": "Yes, we provide sustainable fencing options that are both environmentally friendly and durable."
-            }
-        ],
-        "reviews": [],
-        "neighbourhoods": "",
-        "zipCodes": "83642"
+        {
+          "title": "Quality Repairs",
+          "description": "Our skilled technicians use high-quality parts to ensure your water heater functions efficiently and safely."
+        },
+        {
+          "title": "Affordable Pricing",
+          "description": "We offer competitive pricing for top-tier services, ensuring you get the best value for your money."
+        },
+        {
+          "title": "All Types of Water Heaters",
+          "description": "We service and install all types of water heaters, including tankless, gas, and electric models."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "We are a fully licensed and insured company, ensuring peace of mind with every service."
+        },
+        {
+          "title": "24/7 Emergency Services",
+          "description": "We’re available around the clock for urgent repairs, so you never have to go without hot water."
+        }
+      ]
     },
-    "eagle-id": {
-        "slug": "eagle-id",
-        "name": "Eagle",
-        "metaTitle": "Fence Company Eagle, ID | Meridian Affordable Fences & Gates Pros",
-        "metaDescription": "Upgrade your property with Meridian Affordable Fences & Gates Pros! Premium fencing company in Eagle—Durable, Stylish & Customized Fencing Solutions For You! (303) 551-9552",
-        "metaCanonical": "",
-        "bannerImage": "banner.jpg",
-        "h1Banner": "Premier Fence Contractor in Eagle, ID",
-        "p1Banner": "#1 Choice for Reliable & Affordable Fencing Services. Transform Your Property with Meridian Affordable Fences & Gates Pros in Eagle!",
-        "h2": "Your Trusted Local Fencing Company in Eagle, ID",
-        "p2": "Meridian Affordable Fences & Gates Pros has been serving the Eagle community for over 20 years. We specialize in custom fencing solutions for homes and businesses.<br/><br/>As a locally owned and operated business, we emphasize exceptional craftsmanship and use only high-quality materials to meet local needs. Whether it’s a repair, a new installation, or a custom design, our team is here to help.<br/><br/>We take pride in tailoring each project to fit your property’s style and budget. Our commitment to top-tier materials and expert techniques ensures fences that stand strong against the test of time. Let us enhance your property’s security and aesthetic appeal. Trust Meridian Affordable Fences & Gates Pros to deliver a fence you’ll be proud of.",
-        "h2Image": "metal-panels-fence-building.jpg",
-        "serviceTtile": "",
-        "needsSection": {
-            "title": "Why Meridian Affordable Fences & Gates Pros is the Best Choice in Eagle",
-            "description": "",
-            "needslist": [
-                {
-                    "title": "Local Expertise",
-                    "description": "We understand Eagle’s unique climate and the demands it places on fences. This knowledge helps us recommend materials and designs that last for years while maintaining their functionality and appearance."
-                },
-                {
-                    "title": "Premium Materials",
-                    "description": "We use high-quality materials that are carefully selected to withstand harsh weather conditions. Every fence we build is crafted to stay durable and look great over time."
-                },
-                {
-                    "title": "Fair Pricing",
-                    "description": "Our pricing reflects the quality of our work without stretching your budget. We focus on delivering exceptional fences at a cost that makes sense for every homeowner and business."
-                },
-                {
-                    "title": "Wide Range of Fencing Solutions",
-                    "description": "From traditional wooden fences to sleek modern options like vinyl and aluminum, we offer a variety of styles to match your property’s needs and aesthetics."
-                },
-                {
-                    "title": "Fully Licensed and Insured",
-                    "description": "We have been in the market since 1992, fully licensed and insured to handle your fencing needs. Every project is completed with professional and top-tier safety standards, which gives you peace of mind from start to finish."
-                },
-                {
-                    "title": "Always Here for You",
-                    "description": "We prioritize our clients by staying available 24/7. Whether you need a quick consultation or after-installation support, our team is ready to help any time you call."
-                }
-            ]
+    "h5": "",
+    "p5": "",
+    "h5Image": "",
+    "faq": [
+      {
+        "ques": "How quickly can you repair my water heater?",
+        "ans": "Most repairs are completed the same day. Our team works efficiently to restore your hot water as quickly as possible."
+      }
+    ],
+    "reviews": [],
+    "neighbourhoods": "",
+    "zipCodes": "95661"
+  },
+  "maidu-ca": {
+    "slug": "maidu-ca",
+    "name": "Maidu",
+    "metaTitle": "Water Heater Repair Maidu, CA | Roseville Water Heater Repair Pros",
+    "metaDescription": "Get expert water heater repair with Roseville Water Heater Repair Pros! Reliable, fast, and affordable services in Maidu. Call us today!",
+    "metaCanonical": "",
+    "bannerImage": "banner.jpg",
+    "h1Banner": "Top Water Heater Repair Service in Maidu, CA",
+    "p1Banner": "Your Trusted Choice for Reliable & Affordable Water Heater Repairs. Experience the Best with Roseville Water Heater Repair Pros!",
+    "h2": "Expert Water Heater Repair in Maidu, CA",
+    "p2": "Roseville Water Heater Repair Pros has been serving the Maidu community for over 20 years. We specialize in water heater repairs, maintenance, and installations for residential and commercial properties.<br/><br/>As a locally owned and operated business, we pride ourselves on delivering exceptional service with high-quality materials and expert workmanship. Whether you need a quick repair or a full system replacement, our team is ready to help.<br/><br/>We customize each service to fit your needs and budget, ensuring long-lasting solutions. Trust Roseville Water Heater Repair Pros for all your water heater needs!",
+    "h2Image": "young-master-of-household-maintenance-service-cons.jpg",
+    "serviceTtile": "",
+    "needsSection": {
+      "title": "Why Choose Roseville Water Heater Repair Pros?",
+      "description": "",
+      "needslist": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Maidu’s unique water conditions and provide the best solutions for long-lasting water heater performance."
         },
-        "h5": "",
-        "p5": "",
-        "h5Image": "",
-        "faq": [
-            {
-                "ques": "How long does it take to install a fence?",
-                "ans": "Installation timelines vary depending on the size and complexity of the project, but most fences can be completed within a few days. With our expertise and commitment to excellence, Meridian Affordable Fences & Gates Pros ensures your project is completed on time, tailored to its specific requirements."
-            },
-            {
-                "ques": "What’s the best type of fence for privacy?",
-                "ans": "We recommend wood or vinyl fences with no gaps between panels for maximum privacy. Our team can help you choose the best design to suit your needs."
-            },
-            {
-                "ques": "Do you provide free estimates?",
-                "ans": "Yes, we offer free consultations and estimates to help you plan your fencing project with confidence."
-            },
-            {
-                "ques": "Are your fences weather-resistant?",
-                "ans": "Absolutely! We use materials that are designed to withstand Eagle’s changing weather conditions."
-            },
-            {
-                "ques": "Can I customize my fence design?",
-                "ans": "Of course! We specialize in creating custom fences that suit your style and functional needs."
-            },
-            {
-                "ques": "Do you handle fence repairs?",
-                "ans": "Yes, we provide expert repair services for all types of fences, whether it’s fixing storm damage, replacing broken panels, or restoring worn-out sections."
-            },
-            {
-                "ques": "What if my fence gets damaged after installation?",
-                "ans": "We offer repair and maintenance services to address any issues post-installation and ensure your fence remains in top condition."
-            },
-            {
-                "ques": "Do you offer eco-friendly fencing options?",
-                "ans": "Yes, we provide sustainable fencing options that are both environmentally friendly and durable."
-            }
-        ],
-        "reviews": [],
-        "neighbourhoods": "",
-        "zipCodes": "83616"
+        {
+          "title": "Quality Repairs",
+          "description": "Our skilled technicians use high-quality parts to ensure your water heater functions efficiently and safely."
+        },
+        {
+          "title": "Affordable Pricing",
+          "description": "We offer competitive pricing for top-tier services, ensuring you get the best value for your money."
+        },
+        {
+          "title": "All Types of Water Heaters",
+          "description": "We service and install all types of water heaters, including tankless, gas, and electric models."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "We are a fully licensed and insured company, ensuring peace of mind with every service."
+        },
+        {
+          "title": "24/7 Emergency Services",
+          "description": "We’re available around the clock for urgent repairs, so you never have to go without hot water."
+        }
+      ]
     },
-    "nampa-id": {
-        "slug": "nampa-id",
-        "name": "Nampa",
-        "metaTitle": "Fence Company Nampa, ID | Meridian Affordable Fences & Gates Pros",
-        "metaDescription": "Upgrade your property with Meridian Affordable Fences & Gates Pros! Premium fencing company in Nampa—Durable, Stylish & Customized Fencing Solutions For You! (303) 551-9552",
-        "metaCanonical": "",
-        "bannerImage": "banner.jpg",
-        "h1Banner": "Premier Fence Contractor in Nampa, ID",
-        "p1Banner": "#1 Choice for Reliable & Affordable Fencing Services. Transform Your Property with Meridian Affordable Fences & Gates Pros in Nampa!",
-        "h2": "Your Trusted Local Fencing Company in Nampa, ID",
-        "p2": "Meridian Affordable Fences & Gates Pros has been serving the Nampa community for over 20 years. We specialize in custom fencing solutions for homes and businesses.<br/><br/>As a locally owned and operated business, we emphasize exceptional craftsmanship and use only high-quality materials to meet local needs. Whether it’s a repair, a new installation, or a custom design, our team is here to help.<br/><br/>We take pride in tailoring each project to fit your property’s style and budget. Our commitment to top-tier materials and expert techniques ensures fences that stand strong against the test of time. Let us enhance your property’s security and aesthetic appeal. Trust Meridian Affordable Fences & Gates Pros to deliver a fence you’ll be proud of.",
-        "h2Image": "metal-panels-fence-building.jpg",
-        "serviceTtile": "",
-        "needsSection": {
-            "title": "Why Meridian Affordable Fences & Gates Pros is the Best Choice in Nampa",
-            "description": "",
-            "needslist": [
-                {
-                    "title": "Local Expertise",
-                    "description": "We understand Nampa’s unique climate and the demands it places on fences. This knowledge helps us recommend materials and designs that last for years while maintaining their functionality and appearance."
-                },
-                {
-                    "title": "Premium Materials",
-                    "description": "We use high-quality materials that are carefully selected to withstand harsh weather conditions. Every fence we build is crafted to stay durable and look great over time."
-                },
-                {
-                    "title": "Fair Pricing",
-                    "description": "Our pricing reflects the quality of our work without stretching your budget. We focus on delivering exceptional fences at a cost that makes sense for every homeowner and business."
-                },
-                {
-                    "title": "Wide Range of Fencing Solutions",
-                    "description": "From traditional wooden fences to sleek modern options like vinyl and aluminum, we offer a variety of styles to match your property’s needs and aesthetics."
-                },
-                {
-                    "title": "Fully Licensed and Insured",
-                    "description": "We have been in the market since 1992, fully licensed and insured to handle your fencing needs. Every project is completed with professional and top-tier safety standards, which gives you peace of mind from start to finish."
-                },
-                {
-                    "title": "Always Here for You",
-                    "description": "We prioritize our clients by staying available 24/7. Whether you need a quick consultation or after-installation support, our team is ready to help any time you call."
-                }
-            ]
+    "h5": "",
+    "p5": "",
+    "h5Image": "",
+    "faq": [
+      {
+        "ques": "How quickly can you repair my water heater?",
+        "ans": "Most repairs are completed the same day. Our team works efficiently to restore your hot water as quickly as possible."
+      }
+    ],
+    "reviews": [],
+    "neighbourhoods": "",
+    "zipCodes": "95661"
+  },
+  "cirby-side-ca": {
+    "slug": "cirby-side-ca",
+    "name": "Cirby Side",
+    "metaTitle": "Water Heater Repair Cirby Side, CA | Roseville Water Heater Repair Pros",
+    "metaDescription": "Get expert water heater repair with Roseville Water Heater Repair Pros! Reliable, fast, and affordable services in Cirby Side. Call us today!",
+    "metaCanonical": "",
+    "bannerImage": "banner.jpg",
+    "h1Banner": "Top Water Heater Repair Service in Cirby Side, CA",
+    "p1Banner": "Your Trusted Choice for Reliable & Affordable Water Heater Repairs. Experience the Best with Roseville Water Heater Repair Pros!",
+    "h2": "Expert Water Heater Repair in Cirby Side, CA",
+    "p2": "Roseville Water Heater Repair Pros has been serving the Cirby Side community for over 20 years. We specialize in water heater repairs, maintenance, and installations for residential and commercial properties.<br/><br/>As a locally owned and operated business, we pride ourselves on delivering exceptional service with high-quality materials and expert workmanship. Whether you need a quick repair or a full system replacement, our team is ready to help.<br/><br/>We customize each service to fit your needs and budget, ensuring long-lasting solutions. Trust Roseville Water Heater Repair Pros for all your water heater needs!",
+    "h2Image": "young-master-of-household-maintenance-service-cons.jpg",
+    "serviceTtile": "",
+    "needsSection": {
+      "title": "Why Choose Roseville Water Heater Repair Pros?",
+      "description": "",
+      "needslist": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Cirby Side’s unique water conditions and provide the best solutions for long-lasting water heater performance."
         },
-        "h5": "",
-        "p5": "",
-        "h5Image": "",
-        "faq": [
-            {
-                "ques": "How long does it take to install a fence?",
-                "ans": "Installation timelines vary depending on the size and complexity of the project, but most fences can be completed within a few days. With our expertise and commitment to excellence, Meridian Affordable Fences & Gates Pros ensures your project is completed on time, tailored to its specific requirements."
-            },
-            {
-                "ques": "What’s the best type of fence for privacy?",
-                "ans": "We recommend wood or vinyl fences with no gaps between panels for maximum privacy. Our team can help you choose the best design to suit your needs."
-            },
-            {
-                "ques": "Do you provide free estimates?",
-                "ans": "Yes, we offer free consultations and estimates to help you plan your fencing project with confidence."
-            },
-            {
-                "ques": "Are your fences weather-resistant?",
-                "ans": "Absolutely! We use materials that are designed to withstand Nampa’s changing weather conditions."
-            },
-            {
-                "ques": "Can I customize my fence design?",
-                "ans": "Of course! We specialize in creating custom fences that suit your style and functional needs."
-            },
-            {
-                "ques": "Do you handle fence repairs?",
-                "ans": "Yes, we provide expert repair services for all types of fences, whether it’s fixing storm damage, replacing broken panels, or restoring worn-out sections."
-            },
-            {
-                "ques": "What if my fence gets damaged after installation?",
-                "ans": "We offer repair and maintenance services to address any issues post-installation and ensure your fence remains in top condition."
-            },
-            {
-                "ques": "Do you offer eco-friendly fencing options?",
-                "ans": "Yes, we provide sustainable fencing options that are both environmentally friendly and durable."
-            }
-        ],
-        "reviews": [],
-        "neighbourhoods": "",
-        "zipCodes": "83651"
+        {
+          "title": "Quality Repairs",
+          "description": "Our skilled technicians use high-quality parts to ensure your water heater functions efficiently and safely."
+        },
+        {
+          "title": "Affordable Pricing",
+          "description": "We offer competitive pricing for top-tier services, ensuring you get the best value for your money."
+        },
+        {
+          "title": "All Types of Water Heaters",
+          "description": "We service and install all types of water heaters, including tankless, gas, and electric models."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "We are a fully licensed and insured company, ensuring peace of mind with every service."
+        },
+        {
+          "title": "24/7 Emergency Services",
+          "description": "We’re available around the clock for urgent repairs, so you never have to go without hot water."
+        }
+      ]
     },
-    "boise-id": {
-        "slug": "boise-id",
-        "name": "Boise",
-        "metaTitle": "Fence Company Boise, ID | Meridian Affordable Fences & Gates Pros",
-        "metaDescription": "Upgrade your property with Meridian Affordable Fences & Gates Pros! Premium fencing company in Boise—Durable, Stylish & Customized Fencing Solutions For You! (303) 551-9552",
-        "metaCanonical": "",
-        "bannerImage": "banner.jpg",
-        "h1Banner": "Premier Fence Contractor in Boise, ID",
-        "p1Banner": "#1 Choice for Reliable & Affordable Fencing Services. Transform Your Property with Meridian Affordable Fences & Gates Pros in Boise!",
-        "h2": "Your Trusted Local Fencing Company in Boise, ID",
-        "p2": "Meridian Affordable Fences & Gates Pros has been serving the Boise community for over 20 years. We specialize in custom fencing solutions for homes and businesses.<br/><br/>As a locally owned and operated business, we emphasize exceptional craftsmanship and use only high-quality materials to meet local needs. Whether it’s a repair, a new installation, or a custom design, our team is here to help.<br/><br/>We take pride in tailoring each project to fit your property’s style and budget. Our commitment to top-tier materials and expert techniques ensures fences that stand strong against the test of time. Let us enhance your property’s security and aesthetic appeal. Trust Meridian Affordable Fences & Gates Pros to deliver a fence you’ll be proud of.",
-        "h2Image": "metal-panels-fence-building.jpg",
-        "serviceTtile": "",
-        "needsSection": {
-            "title": "Why Meridian Affordable Fences & Gates Pros is the Best Choice in Boise",
-            "description": "",
-            "needslist": [
-                {
-                    "title": "Local Expertise",
-                    "description": "We understand Boise’s unique climate and the demands it places on fences. This knowledge helps us recommend materials and designs that last for years while maintaining their functionality and appearance."
-                },
-                {
-                    "title": "Premium Materials",
-                    "description": "We use high-quality materials that are carefully selected to withstand harsh weather conditions. Every fence we build is crafted to stay durable and look great over time."
-                },
-                {
-                    "title": "Fair Pricing",
-                    "description": "Our pricing reflects the quality of our work without stretching your budget. We focus on delivering exceptional fences at a cost that makes sense for every homeowner and business."
-                },
-                {
-                    "title": "Wide Range of Fencing Solutions",
-                    "description": "From traditional wooden fences to sleek modern options like vinyl and aluminum, we offer a variety of styles to match your property’s needs and aesthetics."
-                },
-                {
-                    "title": "Fully Licensed and Insured",
-                    "description": "We have been in the market since 1992, fully licensed and insured to handle your fencing needs. Every project is completed with professional and top-tier safety standards, which gives you peace of mind from start to finish."
-                },
-                {
-                    "title": "Always Here for You",
-                    "description": "We prioritize our clients by staying available 24/7. Whether you need a quick consultation or after-installation support, our team is ready to help any time you call."
-                }
-            ]
+    "h5": "",
+    "p5": "",
+    "h5Image": "",
+    "faq": [
+      {
+        "ques": "How quickly can you repair my water heater?",
+        "ans": "Most repairs are completed the same day. Our team works efficiently to restore your hot water as quickly as possible."
+      }
+    ],
+    "reviews": [],
+    "neighbourhoods": "",
+    "zipCodes": "95661"
+  },
+  "cirby-ranch-ca": {
+    "slug": "cirby-ranch-ca",
+    "name": "Cirby Ranch",
+    "metaTitle": "Water Heater Repair Cirby Ranch, CA | Roseville Water Heater Repair Pros",
+    "metaDescription": "Get expert water heater repair with Roseville Water Heater Repair Pros! Reliable, fast, and affordable services in Cirby Ranch. Call us today!",
+    "metaCanonical": "",
+    "bannerImage": "banner.jpg",
+    "h1Banner": "Top Water Heater Repair Service in Cirby Ranch, CA",
+    "p1Banner": "Your Trusted Choice for Reliable & Affordable Water Heater Repairs. Experience the Best with Roseville Water Heater Repair Pros!",
+    "h2": "Expert Water Heater Repair in Cirby Ranch, CA",
+    "p2": "Roseville Water Heater Repair Pros has been serving the Cirby Ranch community for over 20 years. We specialize in water heater repairs, maintenance, and installations for residential and commercial properties.<br/><br/>As a locally owned and operated business, we pride ourselves on delivering exceptional service with high-quality materials and expert workmanship. Whether you need a quick repair or a full system replacement, our team is ready to help.<br/><br/>We customize each service to fit your needs and budget, ensuring long-lasting solutions. Trust Roseville Water Heater Repair Pros for all your water heater needs!",
+    "h2Image": "young-master-of-household-maintenance-service-cons.jpg",
+    "serviceTtile": "",
+    "needsSection": {
+      "title": "Why Choose Roseville Water Heater Repair Pros?",
+      "description": "",
+      "needslist": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Cirby Ranch’s unique water conditions and provide the best solutions for long-lasting water heater performance."
         },
-        "h5": "",
-        "p5": "",
-        "h5Image": "",
-        "faq": [
-            {
-                "ques": "How long does it take to install a fence?",
-                "ans": "Installation timelines vary depending on the size and complexity of the project, but most fences can be completed within a few days. With our expertise and commitment to excellence, Meridian Affordable Fences & Gates Pros ensures your project is completed on time, tailored to its specific requirements."
-            },
-            {
-                "ques": "What’s the best type of fence for privacy?",
-                "ans": "We recommend wood or vinyl fences with no gaps between panels for maximum privacy. Our team can help you choose the best design to suit your needs."
-            },
-            {
-                "ques": "Do you provide free estimates?",
-                "ans": "Yes, we offer free consultations and estimates to help you plan your fencing project with confidence."
-            },
-            {
-                "ques": "Are your fences weather-resistant?",
-                "ans": "Absolutely! We use materials that are designed to withstand Boise’s changing weather conditions."
-            },
-            {
-                "ques": "Can I customize my fence design?",
-                "ans": "Of course! We specialize in creating custom fences that suit your style and functional needs."
-            },
-            {
-                "ques": "Do you handle fence repairs?",
-                "ans": "Yes, we provide expert repair services for all types of fences, whether it’s fixing storm damage, replacing broken panels, or restoring worn-out sections."
-            },
-            {
-                "ques": "What if my fence gets damaged after installation?",
-                "ans": "We offer repair and maintenance services to address any issues post-installation and ensure your fence remains in top condition."
-            },
-            {
-                "ques": "Do you offer eco-friendly fencing options?",
-                "ans": "Yes, we provide sustainable fencing options that are both environmentally friendly and durable."
-            }
-        ],
-        "reviews": [],
-        "neighbourhoods": "",
-        "zipCodes": "83709"
+        {
+          "title": "Quality Repairs",
+          "description": "Our skilled technicians use high-quality parts to ensure your water heater functions efficiently and safely."
+        },
+        {
+          "title": "Affordable Pricing",
+          "description": "We offer competitive pricing for top-tier services, ensuring you get the best value for your money."
+        },
+        {
+          "title": "All Types of Water Heaters",
+          "description": "We service and install all types of water heaters, including tankless, gas, and electric models."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "We are a fully licensed and insured company, ensuring peace of mind with every service."
+        },
+        {
+          "title": "24/7 Emergency Services",
+          "description": "We’re available around the clock for urgent repairs, so you never have to go without hot water."
+        }
+      ]
     },
-    "garden-city-id": {
-        "slug": "garden-city-id",
-        "name": "Garden City",
-        "metaTitle": "Fence Company Garden City, ID | Meridian Affordable Fences & Gates Pros",
-        "metaDescription": "Upgrade your property with Meridian Affordable Fences & Gates Pros! Premium fencing company in Garden City—Durable, Stylish & Customized Fencing Solutions For You! (303) 551-9552",
-        "metaCanonical": "",
-        "bannerImage": "banner.jpg",
-        "h1Banner": "Premier Fence Contractor in Garden City, ID",
-        "p1Banner": "#1 Choice for Reliable & Affordable Fencing Services. Transform Your Property with Meridian Affordable Fences & Gates Pros in Garden City!",
-        "h2": "Your Trusted Local Fencing Company in Garden City, ID",
-        "p2": "Meridian Affordable Fences & Gates Pros has been serving the Garden City community for over 20 years. We specialize in custom fencing solutions for homes and businesses.<br/><br/>As a locally owned and operated business, we emphasize exceptional craftsmanship and use only high-quality materials to meet local needs. Whether it’s a repair, a new installation, or a custom design, our team is here to help.<br/><br/>We take pride in tailoring each project to fit your property’s style and budget. Our commitment to top-tier materials and expert techniques ensures fences that stand strong against the test of time. Let us enhance your property’s security and aesthetic appeal. Trust Meridian Affordable Fences & Gates Pros to deliver a fence you’ll be proud of.",
-        "h2Image": "metal-panels-fence-building.jpg",
-        "serviceTtile": "",
-        "needsSection": {
-            "title": "Why Meridian Affordable Fences & Gates Pros is the Best Choice in Garden City",
-            "description": "",
-            "needslist": [
-                {
-                    "title": "Local Expertise",
-                    "description": "We understand Garden City’s unique climate and the demands it places on fences. This knowledge helps us recommend materials and designs that last for years while maintaining their functionality and appearance."
-                },
-                {
-                    "title": "Premium Materials",
-                    "description": "We use high-quality materials that are carefully selected to withstand harsh weather conditions. Every fence we build is crafted to stay durable and look great over time."
-                },
-                {
-                    "title": "Fair Pricing",
-                    "description": "Our pricing reflects the quality of our work without stretching your budget. We focus on delivering exceptional fences at a cost that makes sense for every homeowner and business."
-                },
-                {
-                    "title": "Wide Range of Fencing Solutions",
-                    "description": "From traditional wooden fences to sleek modern options like vinyl and aluminum, we offer a variety of styles to match your property’s needs and aesthetics."
-                },
-                {
-                    "title": "Fully Licensed and Insured",
-                    "description": "We have been in the market since 1992, fully licensed and insured to handle your fencing needs. Every project is completed with professional and top-tier safety standards, which gives you peace of mind from start to finish."
-                },
-                {
-                    "title": "Always Here for You",
-                    "description": "We prioritize our clients by staying available 24/7. Whether you need a quick consultation or after-installation support, our team is ready to help any time you call."
-                }
-            ]
+    "h5": "",
+    "p5": "",
+    "h5Image": "",
+    "faq": [
+      {
+        "ques": "How quickly can you repair my water heater?",
+        "ans": "Most repairs are completed the same day. Our team works efficiently to restore your hot water as quickly as possible."
+      }
+    ],
+    "reviews": [],
+    "neighbourhoods": "",
+    "zipCodes": "95661"
+  },
+  "south-cirby-ca": {
+    "slug": "south-cirby-ca",
+    "name": "South Cirby",
+    "metaTitle": "Water Heater Repair South Cirby, CA | Roseville Water Heater Repair Pros",
+    "metaDescription": "Get expert water heater repair with Roseville Water Heater Repair Pros! Reliable, fast, and affordable services in South Cirby. Call us today!",
+    "metaCanonical": "",
+    "bannerImage": "banner.jpg",
+    "h1Banner": "Top Water Heater Repair Service in South Cirby, CA",
+    "p1Banner": "Your Trusted Choice for Reliable & Affordable Water Heater Repairs. Experience the Best with Roseville Water Heater Repair Pros!",
+    "h2": "Expert Water Heater Repair in South Cirby, CA",
+    "p2": "Roseville Water Heater Repair Pros has been serving the South Cirby community for over 20 years. We specialize in water heater repairs, maintenance, and installations for residential and commercial properties.<br/><br/>As a locally owned and operated business, we pride ourselves on delivering exceptional service with high-quality materials and expert workmanship. Whether you need a quick repair or a full system replacement, our team is ready to help.<br/><br/>We customize each service to fit your needs and budget, ensuring long-lasting solutions. Trust Roseville Water Heater Repair Pros for all your water heater needs!",
+    "h2Image": "young-master-of-household-maintenance-service-cons.jpg",
+    "serviceTtile": "",
+    "needsSection": {
+      "title": "Why Choose Roseville Water Heater Repair Pros?",
+      "description": "",
+      "needslist": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand South Cirby’s unique water conditions and provide the best solutions for long-lasting water heater performance."
         },
-        "h5": "",
-        "p5": "",
-        "h5Image": "",
-        "faq": [
-            {
-                "ques": "How long does it take to install a fence?",
-                "ans": "Installation timelines vary depending on the size and complexity of the project, but most fences can be completed within a few days. With our expertise and commitment to excellence, Meridian Affordable Fences & Gates Pros ensures your project is completed on time, tailored to its specific requirements."
-            },
-            {
-                "ques": "What’s the best type of fence for privacy?",
-                "ans": "We recommend wood or vinyl fences with no gaps between panels for maximum privacy. Our team can help you choose the best design to suit your needs."
-            },
-            {
-                "ques": "Do you provide free estimates?",
-                "ans": "Yes, we offer free consultations and estimates to help you plan your fencing project with confidence."
-            },
-            {
-                "ques": "Are your fences weather-resistant?",
-                "ans": "Absolutely! We use materials that are designed to withstand Garden City’s changing weather conditions."
-            },
-            {
-                "ques": "Can I customize my fence design?",
-                "ans": "Of course! We specialize in creating custom fences that suit your style and functional needs."
-            },
-            {
-                "ques": "Do you handle fence repairs?",
-                "ans": "Yes, we provide expert repair services for all types of fences, whether it’s fixing storm damage, replacing broken panels, or restoring worn-out sections."
-            },
-            {
-                "ques": "What if my fence gets damaged after installation?",
-                "ans": "We offer repair and maintenance services to address any issues post-installation and ensure your fence remains in top condition."
-            },
-            {
-                "ques": "Do you offer eco-friendly fencing options?",
-                "ans": "Yes, we provide sustainable fencing options that are both environmentally friendly and durable."
-            }
-        ],
-        "reviews": [],
-        "neighbourhoods": "",
-        "zipCodes": "83714"
+        {
+          "title": "Quality Repairs",
+          "description": "Our skilled technicians use high-quality parts to ensure your water heater functions efficiently and safely."
+        },
+        {
+          "title": "Affordable Pricing",
+          "description": "We offer competitive pricing for top-tier services, ensuring you get the best value for your money."
+        },
+        {
+          "title": "All Types of Water Heaters",
+          "description": "We service and install all types of water heaters, including tankless, gas, and electric models."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "We are a fully licensed and insured company, ensuring peace of mind with every service."
+        },
+        {
+          "title": "24/7 Emergency Services",
+          "description": "We’re available around the clock for urgent repairs, so you never have to go without hot water."
+        }
+      ]
     },
-    "hidden-springs-id": {
-        "slug": "hidden-springs-id",
-        "name": "Hidden Springs",
-        "metaTitle": "Fence Company Hidden Springs, ID | Meridian Affordable Fences & Gates Pros",
-        "metaDescription": "Upgrade your property with Meridian Affordable Fences & Gates Pros! Premium fencing company in Hidden Springs—Durable, Stylish & Customized Fencing Solutions For You! (303) 551-9552",
-        "metaCanonical": "",
-        "bannerImage": "banner.jpg",
-        "h1Banner": "Premier Fence Contractor in Hidden Springs, ID",
-        "p1Banner": "#1 Choice for Reliable & Affordable Fencing Services. Transform Your Property with Meridian Affordable Fences & Gates Pros in Hidden Springs!",
-        "h2": "Your Trusted Local Fencing Company in Hidden Springs, ID",
-        "p2": "Meridian Affordable Fences & Gates Pros has been serving the Hidden Springs community for over 20 years. We specialize in custom fencing solutions for homes and businesses.<br/><br/>As a locally owned and operated business, we emphasize exceptional craftsmanship and use only high-quality materials to meet local needs. Whether it’s a repair, a new installation, or a custom design, our team is here to help.<br/><br/>We take pride in tailoring each project to fit your property’s style and budget. Our commitment to top-tier materials and expert techniques ensures fences that stand strong against the test of time. Let us enhance your property’s security and aesthetic appeal. Trust Meridian Affordable Fences & Gates Pros to deliver a fence you’ll be proud of.",
-        "h2Image": "metal-panels-fence-building.jpg",
-        "serviceTtile": "",
-        "needsSection": {
-            "title": "Why Meridian Affordable Fences & Gates Pros is the Best Choice in Hidden Springs",
-            "description": "",
-            "needslist": [
-                {
-                    "title": "Local Expertise",
-                    "description": "We understand Hidden Springs’ unique climate and the demands it places on fences. This knowledge helps us recommend materials and designs that last for years while maintaining their functionality and appearance."
-                },
-                {
-                    "title": "Premium Materials",
-                    "description": "We use high-quality materials that are carefully selected to withstand harsh weather conditions. Every fence we build is crafted to stay durable and look great over time."
-                },
-                {
-                    "title": "Fair Pricing",
-                    "description": "Our pricing reflects the quality of our work without stretching your budget. We focus on delivering exceptional fences at a cost that makes sense for every homeowner and business."
-                },
-                {
-                    "title": "Wide Range of Fencing Solutions",
-                    "description": "From traditional wooden fences to sleek modern options like vinyl and aluminum, we offer a variety of styles to match your property’s needs and aesthetics."
-                },
-                {
-                    "title": "Fully Licensed and Insured",
-                    "description": "We have been in the market since 1992, fully licensed and insured to handle your fencing needs. Every project is completed with professional and top-tier safety standards, which gives you peace of mind from start to finish."
-                },
-                {
-                    "title": "Always Here for You",
-                    "description": "We prioritize our clients by staying available 24/7. Whether you need a quick consultation or after-installation support, our team is ready to help any time you call."
-                }
-            ]
-        },
-        "h5": "",
-        "p5": "",
-        "h5Image": "",
-        "faq": [
-            {
-                "ques": "How long does it take to install a fence?",
-                "ans": "Installation timelines vary depending on the size and complexity of the project, but most fences can be completed within a few days. With our expertise and commitment to excellence, Meridian Affordable Fences & Gates Pros ensures your project is completed on time, tailored to its specific requirements."
-            },
-            {
-                "ques": "What’s the best type of fence for privacy?",
-                "ans": "We recommend wood or vinyl fences with no gaps between panels for maximum privacy. Our team can help you choose the best design to suit your needs."
-            },
-            {
-                "ques": "Do you provide free estimates?",
-                "ans": "Yes, we offer free consultations and estimates to help you plan your fencing project with confidence."
-            },
-            {
-                "ques": "Are your fences weather-resistant?",
-                "ans": "Absolutely! We use materials that are designed to withstand Hidden Springs’ changing weather conditions."
-            },
-            {
-                "ques": "Can I customize my fence design?",
-                "ans": "Of course! We specialize in creating custom fences that suit your style and functional needs."
-            },
-            {
-                "ques": "Do you handle fence repairs?",
-                "ans": "Yes, we provide expert repair services for all types of fences, whether it’s fixing storm damage, replacing broken panels, or restoring worn-out sections."
-            },
-            {
-                "ques": "What if my fence gets damaged after installation?",
-                "ans": "We offer repair and maintenance services to address any issues post-installation and ensure your fence remains in top condition."
-            },
-            {
-                "ques": "Do you offer eco-friendly fencing options?",
-                "ans": "Yes, we provide sustainable fencing options that are both environmentally friendly and durable."
-            }
-        ],
-        "reviews": [],
-        "neighbourhoods": "",
-        "zipCodes": "83714"
-    }
+    "h5": "",
+    "p5": "",
+    "h5Image": "",
+    "faq": [
+      {
+        "ques": "How quickly can you repair my water heater?",
+        "ans": "Most repairs are completed the same day. Our team works efficiently to restore your hot water as quickly as possible."
+      }
+    ],
+    "reviews": [],
+    "neighbourhoods": "",
+    "zipCodes": "95661"
+  }
 }

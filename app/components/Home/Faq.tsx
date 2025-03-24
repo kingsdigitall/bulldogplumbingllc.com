@@ -9,6 +9,7 @@ import {
 import data from "@/components/Content/faq.json";
 import { headers } from "next/headers";
 import content from "@/components/Content/subDomainUrlContent.json";
+import ContactInfo from "@/components/Content/ContactInfo.json";
 
 const Faq = ({ value = "" }) => {
   const [shuffledFaq, setshuffledFaq] = useState(data);
@@ -25,7 +26,7 @@ const Faq = ({ value = "" }) => {
     ? abbrevation
       ? `${contentData.name}`
       : contentData.name
-    : "Meridian";
+    : ContactInfo.location.split(",")[0];
   return (
     <div className="mt-14 md:mt-20">
       <h2 className=" text-center text-3xl font-bold text-main">

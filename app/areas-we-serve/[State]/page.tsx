@@ -113,7 +113,7 @@ export default function SubdomainPage({ params }: SubdomainPageProps) {
                   Residential {ContactInfo.name} Services
                 </h4>
                 <p>
-                  Professional Residential Plumbing Services in{" "}
+                  Professional Residential {ContactInfo.service} in{" "}
                   {ContentData?.name}, {State.split("-").pop()?.toUpperCase()}.
                 </p>
               </div>
@@ -122,7 +122,7 @@ export default function SubdomainPage({ params }: SubdomainPageProps) {
                   Commercial {ContactInfo.name} Services
                 </h4>
                 <p>
-                  Commercial Plumbing Services in {ContentData?.name}, {State.split("-").pop()?.toUpperCase()}.
+                  Commercial {ContactInfo.service} in {ContentData?.name}, {State.split("-").pop()?.toUpperCase()}.
                 </p>
               </div>
             </div>

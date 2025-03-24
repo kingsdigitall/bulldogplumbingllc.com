@@ -10,13 +10,10 @@ const Affordable = () => {
       <div className="mx-auto flex h-full max-w-7xl flex-col items-center justify-center gap-10 text-center lg:flex-row">
         <div className="lg:w-[40%]">
           <h2 className="text-3xl font-bold text-gray-800">
-            Trusted Plumbing Services for Your Home and Business
+          Expert Plumbing Solutions in Roseville, CA 95661
           </h2>
           <p className="mt-4 text-gray-600">
-            Need reliable plumbing solutions? Santa Maria Plumbing offers fast,
-            professional, and affordable plumbing services. Whether it’s a leak
-            repair, drain cleaning, or a full plumbing installation, we’ve got
-            you covered. Call now for expert service you can trust!
+          We provide prompt, top-tier plumbing solutions to keep your home or business in perfect working order. Whether it’s a simple fix or a complex installation, our skilled team ensures the job is done right the first time.
           </p>
           <a id="cta-id" href={`tel:${contactInfo.tel}`}>
             <button
@@ -37,8 +34,7 @@ const Affordable = () => {
               Affordable Plumbing Solutions
             </h3>
             <p className="mt-2 text-gray-600">
-              We offer cost-effective plumbing services tailored to your budget,
-              ensuring high-quality workmanship at competitive prices.
+            We offer cost-effective plumbing solutions with no hidden fees. You’ll get upfront pricing and top-notch service without breaking the bank.
             </p>
           </div>
           {/* Various Services */}
@@ -47,11 +43,10 @@ const Affordable = () => {
               <GrUserWorker className="text-xl text-main" />
             </div>
             <h3 className="mt-4 text-lg font-bold text-gray-800">
-              Comprehensive Plumbing Services
+            Long-Term Plumbing Solutions
             </h3>
             <p className="mt-2 text-gray-600">
-              From minor repairs to major installations, we provide a full
-              range of plumbing services to meet all your needs.
+            We don’t believe in temporary fixes. Our expert repairs and installations are designed to provide lasting results, so you won’t have to deal with recurring plumbing issues.
             </p>
           </div>
           {/* Timely Service */}
@@ -60,11 +55,10 @@ const Affordable = () => {
               <FaRegThumbsUp className=" text-xl" />
             </div>
             <h3 className="mt-4 text-lg font-bold text-gray-800">
-              Prompt & Reliable Service
+            Customer-First Approach
             </h3>
             <p className="mt-2 text-gray-600">
-              Our team ensures quick response times and efficient service,
-              keeping your plumbing system running smoothly without delays.
+            Your satisfaction is our priority. We take the time to understand your needs, provide clear communication, and ensure every job exceeds expectations.
             </p>
           </div>
         </div>

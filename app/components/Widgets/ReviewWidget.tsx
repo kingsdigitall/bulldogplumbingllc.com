@@ -6,6 +6,8 @@ import "slick-carousel/slick/slick-theme.css";
 import Image from "next/image";
 import Testimonials from "@/components/Content/Reviews.json";
 import content from "@/components/Content/subDomainUrlContent.json";
+import ContactInfo from "@/components/Content/ContactInfo.json";
+
 
 interface Review {
   id: number;
@@ -31,7 +33,7 @@ const ReviewWidget: React.FC<ReviewWidgetProps> = ({ value = "" }) => {
     ? abbrevation
       ? `${contentData.name}, ${abbrevation}`
       : contentData.name
-    : "Meridian, ID";
+    : ContactInfo.location;
 
   const settings = {
     dots: true,

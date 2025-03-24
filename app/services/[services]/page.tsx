@@ -18,10 +18,10 @@ export function generateMetadata({ params }: { params: { services: string } }) {
   return {
     title: serviceData.title
       .split("[location]")
-      .join(Data?.name || "Meridian, ID"),
+      .join(Data?.name || ContactInfo.location),
     description: serviceData.description
       .split("[location]")
-      .join(Data?.name || "Meridian, ID"),
+      .join(Data?.name || ContactInfo.location),
     alternates: {
       canonical: `https://${ContactInfo.host}/services/${params.services}/`,
     },
@@ -35,7 +35,7 @@ const page = ({ params }: { params: { services: string } }) => {
   const headersList = headers();
   const subdomain = headersList.get("x-subdomain");
   const Data: any = content[subdomain as keyof typeof content];
-  const locationName = Data?.name || "Meridian, ID";
+  const locationName = Data?.name || ContactInfo.location;
   return (
     <div className="">
       <Banner
@@ -64,9 +64,9 @@ const page = ({ params }: { params: { services: string } }) => {
           </div>
           <div className="w-full pt-10">
             <Image
-              src={`/autumn-alley-with-side-fence.jpg`}
-              className="h-80 rounded-lg border object-cover shadow-lg"
-              alt="autumn-alley-with-side-fence"
+              src={`/${serviceData.imageUrl}`}
+              className="h-[30rem] rounded-lg border object-cover shadow-lg"
+              alt="Service Image"
               width={1000}
               height={1000}
             />

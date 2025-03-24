@@ -55,6 +55,27 @@ const Hero = () => {
         {/* Section 4 */}
         <WhyChoose data={homeData.whyChooseSection} />
         {/* Section 4 */}
+        {/* Section 1 */}
+        <div className="my-10 grid  grid-cols-1 gap-6 px-4 md:grid-cols-2 md:px-24">
+          <div className="">
+            <Image
+              height={10000}
+              width={10000}
+              src={`/${homeData.h3Image}`}
+              className=" h-full w-full rounded-lg object-cover shadow-lg"
+              alt={homeData.h3Image.split(".")[0]}
+              title={homeData.h3Image.split(".")[0]}
+            />
+          </div>
+          <div className="flex flex-col justify-center    ">
+            <h2 className="text-first text-3xl font-bold">{homeData.h3}</h2>
+            <div
+              className="mt-4  text-justify"
+              dangerouslySetInnerHTML={{ __html: homeData.p3 }}
+            ></div>
+          </div>
+        </div>
+        {/* Section 1 */}
         <ProcessWidget />
         {/* Area we Serve */}
         <div className="mx-auto mt-14 max-w-[95rem] md:mt-20">

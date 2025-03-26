@@ -11,13 +11,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const ServiceSlug: any = serviceData.lists.map((item: any) => item.slug);
 
   const SubDomainURL = SubDomain.map((location: any) => ({
-    url: `${contentData.baseUrl}areas-we-serve/${location}`,
+    url: `${contentData.baseUrl}areas-we-serve/${location}/`,
     lastModified: new Date(),
     changeFrequency: "weekly",
     priority: 1,
   }));
   const ServiceURL = ServiceSlug.map((location: any) => ({
-    url: `${contentData.baseUrl}services/${location}`,
+    url: `${contentData.baseUrl}services/${location}/`,
     lastModified: new Date(),
     changeFrequency: "weekly",
     priority: 0.7,
@@ -31,26 +31,26 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
-      url: `${contentData.baseUrl}about`,
+      url: `${contentData.baseUrl}about/`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
-      url: `${contentData.baseUrl}contact`,
+      url: `${contentData.baseUrl}contact/`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
-      url: `${contentData.baseUrl}services`,
+      url: `${contentData.baseUrl}services/`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.8,
     },
     ...ServiceURL,
     {
-      url: `${contentData.baseUrl}areas-we-serve`,
+      url: `${contentData.baseUrl}areas-we-serve/`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.8,

@@ -1,32 +1,29 @@
 {
   "metaTitle": " Water Heater Experts Near You | Roseville Pros",
   "metaDescription": "Trusted water heater and plumbing experts serving Roseville since 2001. Honest service, fast response, and professional results. Call for a free estimate today!",
-
   "bannerQuote": "",
   "bannerImage": "banner.jpg",
   "h1Banner": "About Roseville Water Heater Repair Pros",
   "p1Banner": "",
-  "p2":"Since 2001, our team has been the go-to solution for homeowners in Roseville looking for fast, honest, and skilled plumbing and water heater services. We’re proud to be locally owned and operated, serving our community with integrity and transparency. Whether it’s a minor leak or a full system replacement, we treat every job like it matters—because to you, it does. Our licensed, insured technicians arrive prepared, work efficiently, and never leave a mess behind. From first call to final inspection, your satisfaction is what drives us.",
+  "p2": "Since 2001, our team has been the go-to solution for homeowners in Roseville looking for fast, honest, and skilled plumbing and water heater services. We’re proud to be locally owned and operated, serving our community with integrity and transparency. Whether it’s a minor leak or a full system replacement, we treat every job like it matters—because to you, it does. Our licensed, insured technicians arrive prepared, work efficiently, and never leave a mess behind. From first call to final inspection, your satisfaction is what drives us.",
   "h2Image": "heating-system-technician-performing-regular-maint.jpg",
-  "missionSection":[
+  "missionSection": [
     {
       "title": "Our Mission",
-    "description": "To deliver dependable plumbing and water heater services that prioritize safety, performance, and customer peace of mind. We aim to solve problems quickly and correctly—without upselling or delays."
+      "description": "To deliver dependable plumbing and water heater services that prioritize safety, performance, and customer peace of mind. We aim to solve problems quickly and correctly—without upselling or delays."
     },
     {
       "title": "Our Vision",
-    "description": "To be the most trusted plumbing and water heater team in the region—built on referrals, 5-star experiences, and long-term customer relationships."
+      "description": "To be the most trusted plumbing and water heater team in the region—built on referrals, 5-star experiences, and long-term customer relationships."
     },
     {
       "title": "Our Difference",
-    "description": " We combine hands-on experience with modern tools and community values. No shortcuts, no surprise costs—just clean, code-compliant work from people who care. When you call us, you speak with a neighbor, not a call center."
+      "description": " We combine hands-on experience with modern tools and community values. No shortcuts, no surprise costs—just clean, code-compliant work from people who care. When you call us, you speak with a neighbor, not a call center."
     }
   ],
-  "areaweserveSection":{
+  "areaweserveSection": {
     "description": "We serve all across the Meridian",
-    "linkText":"Check our Fence service locations here.",
-    "link":"/areas-we-serve"
+    "linkText": "Check our Fence service locations here.",
+    "link": "/areas-we-serve"
   }
-
-  
 }

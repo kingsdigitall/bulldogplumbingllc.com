@@ -590,12 +590,12 @@ export default async function NeighborhoodPage({
                 <div className="rounded-xl p-4 shadow-lg" key={item}>
                   <div className="">
                     {/* <Image
-                      src={`/${item?.image}`}
-                      alt={item?.name}
-                      width={900}
-                      height={950}
-                      className="h-60 w-full object-cover "
-                    /> */}
+                     src={`/${item?.image}`}
+                     alt={item?.name}
+                     width={900}
+                     height={950}
+                     className="h-60 w-full object-cover "
+                   /> */}
                   </div>
                   <div className="">
                     <div className={` text-center font-bold`}>
@@ -722,7 +722,11 @@ export async function generateStaticParams() {
         .split("|")
         .map((neighName: string) => ({
           State: city.slug,
-          neighborhood: neighName.trim().toLowerCase().replace(/\.+$/, "").replace(/\s+/g, "-"),
+          neighborhood: neighName
+            .trim()
+            .toLowerCase()
+            .replace(/\s+/g, "-")
+            .replace(/\.+$/, ""),
         }));
       neighborhoods.push(...cityNeighborhoods);
     }

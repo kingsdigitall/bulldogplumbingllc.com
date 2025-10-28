@@ -10,5 +10,9 @@
   "location": "Roseville, CA",
   "zipCode": "95661",
   "bannerImage": "https://ik.imagekit.io/serviceproviders/bulldogplumbingllc.com/banner.jpg?updatedAt=1744005687011",
-  "logo": "https://ik.imagekit.io/serviceproviders/bulldogplumbingllc.com/logo.png?updatedAt=1744626130956"
+  "logoImage": "https://ik.imagekit.io/serviceproviders/bulldogplumbingllc.com/logo.png?updatedAt=1744626130956",
+  "favicon": "",
+  "googleAnalytics": "",
+  "minor": "#f0f7f7",
+  "main": "#492cdd"
 }

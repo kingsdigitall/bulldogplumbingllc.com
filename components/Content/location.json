@@ -2,8 +2,12 @@
   "metaTitle": "Roseville Water Heater Repair | Nearby Service Areas",
   "metaDescription": "Providing expert water heater repair in Roseville & nearby areas. Reliable, licensed technicians are ready to help. Call today! (916) 270-0406",
   "bannerQuote": "",
-  "bannerImage": "banner.jpg",
+  "bannerImage": "https://ik.imagekit.io/serviceproviders/bulldogplumbingllc.com/banner.jpg?updatedAt=1744005687011",
   "h1Banner": "Water Heater Repair in Roseville & Surrounding Areas - Call Now!",
   "p1Banner": "",
-  "areatitle": ""
+  "areatitle": "",
+  "blogMetas":{
+    "metaTitle":"",
+    "metaDescription":""
+  }
 }

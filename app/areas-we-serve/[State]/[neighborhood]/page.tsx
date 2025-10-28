@@ -722,7 +722,7 @@ export async function generateStaticParams() {
         .split("|")
         .map((neighName: string) => ({
           State: city.slug,
-          neighborhood: neighName.trim().toLowerCase().replace(/\s+/g, "-").replace(/\.+$/, ""),
+          neighborhood: neighName.trim().toLowerCase().replace(/\.+$/, "").replace(/\s+/g, "-"),
         }));
       neighborhoods.push(...cityNeighborhoods);
     }
